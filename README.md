@@ -1,2 +1,1 @@
-This file just contains a smaple practice for creating a website and hosting it on web. It contains the links that we referred while participating in the Smart India Hackathon.
-To check the finished site visit the following link : https://cosmocode-source.github.io/SIHLinks/
+This file just contains a smaple practice for creating a website and hosting it on web. It contains the links that we referred while participating in the Smart India Hackathon. This helped us with the SIH and was a good practise for making HTML and CSS . I got learn a lot of things like meadia and flexbox while doing this.
